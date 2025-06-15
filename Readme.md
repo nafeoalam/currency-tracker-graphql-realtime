@@ -1,4 +1,5 @@
 # 🏦 Currency Tracker - Real-time Exchange Rates
+<img width="1507" alt="app_view" src="https://github.com/user-attachments/assets/6ae3a942-9a7b-4868-b5fc-40d5ae2d95d5" />
 
 A modern, real-time currency tracking application built with GraphQL, Node.js, and Next.js. Track live exchange rates with WebSocket subscriptions and beautiful, responsive UI.
 
